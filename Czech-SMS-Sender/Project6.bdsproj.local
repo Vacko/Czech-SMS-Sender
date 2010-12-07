@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2010.09.19 14:12:18.031.pas,C:\Documents and Settings\Admin\Dokumenty\Borland Studio Projects\Unit5.pas=C:\Data\Users\Vasek\Projects\Turbo Delphi\Uncompleted\new-SMS\main.pas</Transaction>
+    <Transaction>2010.09.19 14:12:18.046.dfm,C:\Documents and Settings\Admin\Dokumenty\Borland Studio Projects\Unit5.dfm=C:\Data\Users\Vasek\Projects\Turbo Delphi\Uncompleted\new-SMS\main.dfm</Transaction>
+    <Transaction>2010.09.19 14:12:19.890.bdsproj,C:\Documents and Settings\Admin\Dokumenty\Borland Studio Projects\Project6.bdsproj=C:\Data\Users\Vasek\Projects\Turbo Delphi\Uncompleted\new-SMS\Project6.bdsproj</Transaction>
+    <Transaction>2010.09.19 14:15:18.609.pas,C:\Data\Users\Vasek\Projects\Turbo Delphi\Uncompleted\new-SMS\Unit1.pas=C:\Data\Users\Vasek\Projects\Turbo Delphi\Uncompleted\new-SMS\Shistory.pas</Transaction>
+    <Transaction>2010.09.19 14:15:18.609.dfm,C:\Data\Users\Vasek\Projects\Turbo Delphi\Uncompleted\new-SMS\Unit1.dfm=C:\Data\Users\Vasek\Projects\Turbo Delphi\Uncompleted\new-SMS\Shistory.dfm</Transaction>
+    <Transaction>2010.09.19 14:15:20.593.bdsproj,C:\Data\Users\Vasek\Projects\Turbo Delphi\Uncompleted\new-SMS\Project6.bdsproj=C:\Data\Users\Vasek\Projects\Turbo Delphi\Uncompleted\new-SMS\Project6.bdsproj</Transaction>
+    <Transaction>2010.10.08 19:11:24.343.pas,C:\Data\Users\Vasek\Projects\Turbo Delphi\Uncompleted\new-SMS\Unit3.pas=C:\Data\Users\Vasek\Projects\Turbo Delphi\Uncompleted\new-SMS\Sadd.pas</Transaction>
+    <Transaction>2010.10.08 19:11:24.343.dfm,C:\Data\Users\Vasek\Projects\Turbo Delphi\Uncompleted\new-SMS\Unit3.dfm=C:\Data\Users\Vasek\Projects\Turbo Delphi\Uncompleted\new-SMS\Sadd.dfm</Transaction>
+    <Transaction>2010.10.10 16:45:26.140.pas,C:\Data\Users\Vasek\Projects\Turbo Delphi\Uncompleted\new-SMS\Unit1.pas=C:\Data\Users\Vasek\Projects\Turbo Delphi\Uncompleted\new-SMS\Shistory_unit.pas</Transaction>
+    <Transaction>2010.10.10 19:01:13.562.pas,C:\Data\Users\Vasek\Projects\Turbo Delphi\Uncompleted\new-SMS\Unit2.pas=C:\Data\Users\Vasek\Projects\Turbo Delphi\Uncompleted\new-SMS\Scontact_list.pas</Transaction>
+    <Transaction>2010.10.23 00:56:37.312.pas,C:\Data\Users\Vasek\Projects\Turbo Delphi\Uncompleted\new-SMS\Czech Republic\o2.pas=C:\Data\Users\Vasek\Projects\Turbo Delphi\Uncompleted\new-SMS\Czech Republic\o21.pas</Transaction>
+    <Transaction>2010.10.23 00:56:41.750.pas,C:\Data\Users\Vasek\Projects\Turbo Delphi\Uncompleted\new-SMS\Czech Republic\o21.pas=C:\Data\Users\Vasek\Projects\Turbo Delphi\Uncompleted\new-SMS\Czech Republic\o2.pas</Transaction>
+    <Transaction>2010.10.23 00:56:45.468.pas,C:\Data\Users\Vasek\Projects\Turbo Delphi\Uncompleted\new-SMS\Czech Republic\TMobile.pas=C:\Data\Users\Vasek\Projects\Turbo Delphi\Uncompleted\new-SMS\Czech Republic\TMobile1.pas</Transaction>
+    <Transaction>2010.10.23 00:56:49.468.pas,C:\Data\Users\Vasek\Projects\Turbo Delphi\Uncompleted\new-SMS\Czech Republic\TMobile1.pas=C:\Data\Users\Vasek\Projects\Turbo Delphi\Uncompleted\new-SMS\Czech Republic\TMobile.pas</Transaction>
+    <Transaction>2010.10.23 00:56:54.265.pas,C:\Data\Users\Vasek\Projects\Turbo Delphi\Uncompleted\new-SMS\Czech Republic\vodafone.pas=C:\Data\Users\Vasek\Projects\Turbo Delphi\Uncompleted\new-SMS\Czech Republic\vodafon.pas</Transaction>
+    <Transaction>2010.10.23 00:56:57.984.pas,C:\Data\Users\Vasek\Projects\Turbo Delphi\Uncompleted\new-SMS\Czech Republic\vodafon.pas=C:\Data\Users\Vasek\Projects\Turbo Delphi\Uncompleted\new-SMS\Czech Republic\vodafone.pas</Transaction>
+  </Transactions>
+</BorlandProject>
