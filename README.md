@@ -8,6 +8,14 @@ Send SMS to all Czech operators for free.
 - Login as O2 user
 - Friend list
 - History of sent SMS
+- Application updates
+
+## Copyright and License
+
+Copyright 2010 Vacko
+
+Licensed under the [MIT licence](LICENSE)
+
+## Pictures
 
 <img src="sms-sender.jpg" />
-<img src="sms-sender-history.jpg" />
